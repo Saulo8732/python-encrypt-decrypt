@@ -1,5 +1,7 @@
 import pyAesCrypt
 
+#ALUNO: SAULO SANTIAGO
+
 print("""
 ######################################################
 # Programa de encriptação e desencriptação em Python #
